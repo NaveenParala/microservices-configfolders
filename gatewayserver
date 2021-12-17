@@ -1,6 +1,0 @@
-server.port=5054
-
-eureka.instance.preferIpAddress=true
-eureka.client.registerWithEureka=false
-eureka.client.fetchRegistry=false
-eureka.client.serviceUrl.defaultZone=http://localhost:5055/eureka/
